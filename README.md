@@ -1,2 +1,2 @@
 # ml_utils
-utilities for data analisys
+My personal shortcuts for data analisys
